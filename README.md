@@ -1,4 +1,4 @@
-# contador
+# App Contador
 
 A new Flutter project.
 
