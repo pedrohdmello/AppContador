@@ -1,19 +1,14 @@
-# App Contador
+# APP Contador de pessoas 
 
-A new Flutter project.
+## Descrição do Aplicativo
+Nome Aplicativo: Contador de pessoas  
+Descrição: Aplicativo desenvolvido em Flutter para monitorar o fluxo de pessoas em ambientes fechados, garantindo um controle eficiente da ocupação.  
+Componentes do Grupo: 223100004 - Pedro Henrique Damasceno Mello e 12117011 - Douglas Ferreira Marques
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## Funcionalidades Principais
+✅ Registra entradas e saídas em tempo real.  
+✅ Permite configurar um limite máximo de ocupação.  
+✅ Emite alertas visuais ao atingir a capacidade definida.  
+✅ Interface personalizável para melhor adaptação ao ambiente.
 
 ![image](https://github.com/user-attachments/assets/fd264fdc-4460-447e-bfa4-5b4dbf23715e)
